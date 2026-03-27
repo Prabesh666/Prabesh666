@@ -47,16 +47,30 @@ I engineer production-grade AI platforms with measurable real-world impact. I sp
 
 ---
 
-### 📊 Impact & Metrics
+### 📊 Engineering Scale & Impact
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prabesh666&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Prabesh666&theme=radical&column=5&no-frame=true&no-bg=true&margin-w=15" alt="Prabesh's Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prabesh666&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh666&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 <br><br><br><br><br><br><br><br>
 
-| 🏆 Top 1% Developer | 🌟 3,500+ Stars | 📦 25+ Repositories | 🔗 50+ OSS Contributions | 👥 1000+ Followers |
-| :---: | :---: | :---: | :---: | :---: |
+#### 📈 Proven Real-World Impact
+
+| 🚀 Enterprise Scale & Performance | 🏆 Recognition & Community |
+| :--- | :--- |
+| ⚡ **100K+** Daily autonomous agent executions | 🏅 **Top 1%** Developer Ranking |
+| 📉 **85%** Reduction in manual operations via n8n workflows | 🦇 **Vampire & Code Forker** Elite Kaggle Badges |
+| ⏱️ **Sub-100ms** Latency achieved on multi-agent reasoning loops | 🤝 **50+** High-impact Open Source Contributions |
+| 🛡️ **Zero-Downtime** Deployments across production AI systems | ⭐ **3,500+** Stars across AI & Automation repositories |
 
 ---
 
@@ -75,10 +89,10 @@ I engineer production-grade AI platforms with measurable real-world impact. I sp
 
 ### ⚡ Currently Working On
 
+- 🧠 **Agentic AI Self-Care Planning System:** Architecting intelligent, context-aware personalized AI planners.
 - 🤖 **Advanced Multi-Agent Frameworks:** Designing reasoning loops, memory management, and tool integration.
-- 🧠 **Agentic AI Self-Care Planning System:** Building intelligent, context-aware personalized AI planners.
-- 🚀 **Automation at Scale:** Optimizing architectures handling massive daily executions and webhook architectures.
-- 🔐 **Enterprise-Grade AI:** Implementing zero-trust security and robust authentication flows for LLM apps.
+- 🚀 **Automation at Scale:** Optimizing architectures handling massive daily executions and webhook routing.
+- 🔐 **Enterprise-Grade AI:** Implementing zero-trust security and robust authentication flows for LLM applications.
 
 ---
 
